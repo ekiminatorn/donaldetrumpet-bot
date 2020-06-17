@@ -1,0 +1,24 @@
+{
+  "name": "donaldetrumpet-bot",
+  "version": "0.0.1",
+  "description": "Donny's tweets into speech on Discord",
+  "main": "bot.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekiminatorn/donaldetrumpet-bot.git"
+  },
+  "author": "Emil Ekström & Rasmus Svartsjö",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ekiminatorn/donaldetrumpet-bot/issues"
+  },
+  "homepage": "https://github.com/ekiminatorn/donaldetrumpet-bot#readme"
+}
