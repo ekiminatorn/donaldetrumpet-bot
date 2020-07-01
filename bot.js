@@ -24,4 +24,4 @@ client.on('message', async message => {
 
 });
 
-client.login(config.token);
+client.login(config.DISCORD_CREDENTIALS.token);

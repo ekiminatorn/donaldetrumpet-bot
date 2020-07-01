@@ -1,3 +1,10 @@
 {
-    "token": "Your token here"
+    "DISCORD_CREDENTIALS": {
+        "token": "BOT TOKEN"
+    },
+
+    "TWATTER_CREDENTIALS": {
+        "consumer_key": "TWITTER APP API KEY",
+        "consumer_secret": "TWITTER APP SECRET"
+    }
 }
